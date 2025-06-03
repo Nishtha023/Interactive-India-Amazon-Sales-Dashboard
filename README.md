@@ -8,7 +8,9 @@ In today's competitive e-commerce landscape, data-driven insights play a crucial
 This dashboard is designed to provide valuable weekly sales insights to stakeholders involved in category management, planning, and marketing strategy.
 
 **Category Managers** → To track sales performance trends and identify top- or under-performing product lines over time.
+
 **Marketing Teams** → To align promotional campaigns with peaks and dips in category demand.
+
 **Inventory & Demand Planners** → To forecast demand accurately and ensure optimal stock levels based on category trends.
 
 Here is the link to my interactive tableau dashboard : https://public.tableau.com/app/profile/nishtha.patel5320/viz/AmazonFinalProject_17427157188860/Dashboard1?publish=yes
